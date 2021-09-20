@@ -66,9 +66,9 @@ flutter:
     - assets/moto_delivery_woman.svg
     - assets/nubes.svg
     - assets/woman.svg
-    - assets/sentado.svg
+    - assets/sentado1.svg
     - assets/gps.svg
-    - assets/moto_con_gps.svg
+    
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
